@@ -40,7 +40,7 @@ function AddTask() {
     });
     _a.textContent = "Delete";
 
-    //Add everything
+    //Add everything Test
     tasks.appendChild(_li);
     _li.appendChild(_check);
     _li.appendChild(_h1);
